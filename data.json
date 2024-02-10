@@ -1,0 +1,433 @@
+[
+    {
+        "id": "001",
+        "firstName": "Ava",
+        "lastName": "DuVernay",
+        "birthDate": "08-24-1972",
+        "birthPlace": "Long Beach, CA, U.S.",
+        "almaMater": "University of California, Los Angeles",
+        "filmography": [
+            {
+                "film": [
+                    {
+                        "id": "1",
+                        "title": "I Will Follow",
+                        "released": "2010",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "title": "Middle of Nowhere",
+                        "released": "2012",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3",
+                        "title": "Selma",
+                        "released": "2014",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "false",
+                                "producer": "false"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4",
+                        "title": "A Wrinkle in Time",
+                        "released": "2018",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "false",
+                                "producer": "false"
+                            }
+                        ]
+                    }
+                ],
+                "documentaryFilm": [
+                    {
+                        "id": "1",
+                        "title": "13th",
+                        "released": "2016",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    }
+                ],
+                "television": [
+                    {
+                        "id": "1",
+                        "title": "When They See Us",
+                        "released": "2019",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    }
+                ]
+        
+            }
+        ],
+            
+        "awards": [
+            {
+                "goldenGlobeAward": [
+                    {
+                        "id": "1",
+                        "category": "Best Director",
+                        "year": "2014",
+                        "work": "Selma",
+                        "result": "nominated" 
+                    }
+                ],
+                "academyAward": [
+                    {
+                        "id": "1",
+                        "category": "Best Documentary Feature",
+                        "year": "2017",
+                        "work": "13th",
+                        "result": "nominated"  
+                    }
+                ],
+                "primetimeEmmyAward": [
+                    {
+                        "id": "1",
+                        "category": "Outstanding Documentary for Nonfiction Special",
+                        "year": "2017",
+                        "work": "13th",
+                        "result": "won"  
+                    },
+                    {
+                        "id": "2",
+                        "category": "Outstanding Directing for Nonfiction Programming",
+                        "year": "2017",
+                        "work": "13th",
+                        "result": "nominated"  
+                    },
+                    {
+                        "id": "3",
+                        "category": "Outstanding Writing for Nonfiction Programming",
+                        "year": "2017",
+                        "work": "13th",
+                        "result": "won"  
+                    },
+                    {
+                        "id": "4",
+                        "category": "Outstanding Limited Series",
+                        "year": "2019",
+                        "work": "When They See Us",
+                        "result": "nominated"  
+                    },
+                    {
+                        "id": "5",
+                        "category": "Outstanding Directing for a Limited Series, Movie, or Dramatic Special",
+                        "year": "2019",
+                        "work": "When They See Us",
+                        "result": "nominated"  
+                    },
+                    {
+                        "id": "5",
+                        "category": "Outstanding Writing for a Limited Series, Movie, or Dramatic Special",
+                        "year": "2019",
+                        "work": "When They See Us",
+                        "result": "nominated"  
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "firstName": "Sofia",
+        "lastName": "Coppola",
+        "birthDate": "05-14-1971",
+        "birthPlace": "New York City, New York, U.S.",
+        "almaMater": "",
+        "filmography": [
+            {
+                "film": [
+                    {
+                        "id": "1",
+                        "title": "New York Stories",
+                        "released": "1989",
+                        "credits": [
+                            {
+                                "director": "false",
+                                "writer": "true",
+                                "producer": "false"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "title": "Lick the Star",
+                        "released": "1998",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3",
+                        "title": "The Virgin Suicides",
+                        "released": "1999",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "false"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4",
+                        "title": "Lost in Translation",
+                        "released": "2003",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "5",
+                        "title": "Marie Antoinette",
+                        "released": "2006",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6",
+                        "title": "Somewhere",
+                        "released": "2010",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7",
+                        "title": "The Bling Ring",
+                        "released": "2013",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8",
+                        "title": "The Beguiled",
+                        "released": "2017",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9",
+                        "title": "On The Rocks",
+                        "released": "2020",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    }
+                ],
+                "television": [
+                    {
+                        "id": "1",
+                        "title": "A Very Murray Christmas",
+                        "released": "2015",
+                        "credits": [
+                            {
+                                "director": "true",
+                                "writer": "true",
+                                "producer": "true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "awards": [
+            {
+                "goldenGlobeAward": [
+                    {
+                        "id": "1",
+                        "category": "Best Director",
+                        "year": "2003",
+                        "work": "Lost in Translation",
+                        "result": "nominated" 
+                    },
+                    {
+                        "id": "2",
+                        "category": "Best Screenplay",
+                        "year": "2003",
+                        "work": "Lost In Translation",
+                        "result": "won" 
+                    }
+                ],
+                "academyAward": [
+                    {
+                        "id": "1",
+                        "category": "Best Picture",
+                        "year": "2003",
+                        "work": "Lost in Translation",
+                        "result": "nominated"  
+                    },
+                    {
+                        "id": "2",
+                        "category": "Best Director",
+                        "year": "2003",
+                        "work": "Lost in Translation",
+                        "result": "nominated"  
+                    },
+                    {
+                        "id": "3",
+                        "category": "Best Original Screenplay",
+                        "year": "2003",
+                        "work": "Lost in Translation",
+                        "result": "won"  
+                    }
+                ],
+                "primetimeEmmyAward": [
+                    {
+                        "id": "1",
+                        "category": "Outstanding Television Movie",
+                        "year": "2015",
+                        "work": "A Very Murray Christmas",
+                        "result": "nominated"  
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "",
+        "firstName": "",
+        "lastName": "",
+        "birthDate": "",
+        "birthPlace": "",
+        "almaMater": "",
+        "filmography": [
+            {
+                "film": [
+                    {
+                        "id": "",
+                        "title": "",
+                        "released": "",
+                        "credits": [
+                            {
+                                "director": "",
+                                "writer": "",
+                                "producer": ""
+                            }
+                        ]
+                    }
+                ],
+                "documentaryFilm": [
+                    {
+                        "id": "",
+                        "title": "",
+                        "released": "",
+                        "credits": [
+                            {
+                                "director": "",
+                                "writer": "",
+                                "producer": ""
+                            }
+                        ]
+                    }
+                ],
+                "television": [
+                    {
+                        "id": "",
+                        "title": "",
+                        "released": "",
+                        "credits": [
+                            {
+                                "director": "",
+                                "writer": "",
+                                "producer": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "awards": [
+            {
+                "goldenGlobeAward": [
+                    {
+                        "id": "1",
+                        "category": "",
+                        "year": "",
+                        "work": "",
+                        "result": "" 
+                    }
+                ],
+                "academyAward": [
+                    {
+                        "id": "1",
+                        "category": "",
+                        "year": "",
+                        "work": "",
+                        "result": ""  
+                    }
+                ],
+                "primetimeEmmyAward": [
+                    {
+                        "id": "1",
+                        "category": "",
+                        "year": "",
+                        "work": "",
+                        "result": ""  
+                    }
+                ]
+            }
+        ]
+    }
+]
